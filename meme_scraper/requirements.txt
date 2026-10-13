@@ -1,0 +1,6 @@
+praw>=7.7
+beautifulsoup4
+python-dotenv
+requests
+pillow
+playwright
